@@ -10,7 +10,6 @@ This project is a dual-polarity regulated DC power supply designed to provide ±
 - Input Voltage: 220V AC
 - Output Voltages: +15V, -15V, +5V, -5V DC
 - Regulation Type: Linear
-- Current Capacity: ~1A  (depending on the transformer and regulator ICs used)
 - Protection: Filter capacitors and heat sinks for stability and thermal protection
 
 ---

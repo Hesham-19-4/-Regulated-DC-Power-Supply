@@ -57,6 +57,12 @@ The image below shows the measured +15V DC output from the power supply circuit:
 
 ![+15V Output](https://github.com/Hesham-19-4/-Regulated-DC-Power-Supply/blob/main/15.png?raw=true)
 
+### +5V Output Measurement
+![+5V Output](https://github.com/Hesham-19-4/-Regulated-DC-Power-Supply/blob/main/5.jpg?raw=true)
+
+
+
+
 
 ## Applications
 

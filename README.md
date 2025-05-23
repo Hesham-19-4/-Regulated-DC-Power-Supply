@@ -39,6 +39,12 @@ This project is a dual-polarity regulated DC power supply designed to provide ±
 5. Output is taken through terminal blocks for external circuit usage.
 
 ---
+##  Final Assembled Board
+
+This image shows the final assembled regulated DC power supply circuit with all components in place:
+
+![Final Board with Components](https://github.com/Hesham-19-4/-Regulated-DC-Power-Supply/blob/main/final_board_with_components.jpg?raw=true)
+
 ##  -15V Output Measurement
 
 The following image shows the output of the regulated DC power supply (e.g., -15V):
